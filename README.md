@@ -70,9 +70,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-8e44ad?style=for-the-badge&logo=instagram&logoColor=white)](LINK_DO_SEU_INSTAGRAM)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white)](LINK_DO_SEU_SITE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/contatobrenoutimura?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Instagram](https://img.shields.io/badge/Instagram-8e44ad?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brenoutimura?utm_source=qr&igsh=MXJxc3A5eG55MjRkYg==)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white)](https://brenoutimura.github.io/)
 
 </div>
 
