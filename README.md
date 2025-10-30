@@ -1,7 +1,11 @@
 <!-- Banner animado superior -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-<h1 align="center">👋 I am <span style="color:#8e44ad;">Breno Utimura</span></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=8E44AD&center=true&vCenter=true&width=435&lines=I+am+Breno+Utimura" alt="I am Breno Utimura" />
+</p>
+
+
 
 <div align="center">
   
